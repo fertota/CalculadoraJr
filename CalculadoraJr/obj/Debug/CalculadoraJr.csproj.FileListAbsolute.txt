@@ -1,0 +1,9 @@
+c:\users\ftota\documents\visual studio 2012\Projects\CalculadoraJr\CalculadoraJr\bin\Debug\CalculadoraJr.exe.config
+c:\users\ftota\documents\visual studio 2012\Projects\CalculadoraJr\CalculadoraJr\bin\Debug\CalculadoraJr.exe
+c:\users\ftota\documents\visual studio 2012\Projects\CalculadoraJr\CalculadoraJr\bin\Debug\CalculadoraJr.pdb
+c:\users\ftota\documents\visual studio 2012\Projects\CalculadoraJr\CalculadoraJr\obj\Debug\CalculadoraJr.csprojResolveAssemblyReference.cache
+c:\users\ftota\documents\visual studio 2012\Projects\CalculadoraJr\CalculadoraJr\obj\Debug\CalculadoraJr.Calc1.resources
+c:\users\ftota\documents\visual studio 2012\Projects\CalculadoraJr\CalculadoraJr\obj\Debug\CalculadoraJr.Properties.Resources.resources
+c:\users\ftota\documents\visual studio 2012\Projects\CalculadoraJr\CalculadoraJr\obj\Debug\CalculadoraJr.csproj.GenerateResource.Cache
+c:\users\ftota\documents\visual studio 2012\Projects\CalculadoraJr\CalculadoraJr\obj\Debug\CalculadoraJr.exe
+c:\users\ftota\documents\visual studio 2012\Projects\CalculadoraJr\CalculadoraJr\obj\Debug\CalculadoraJr.pdb
